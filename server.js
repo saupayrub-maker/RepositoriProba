@@ -1,1 +1,6 @@
-server sevre serve;
+
+servidor
+servidor
+servidor
+servidor
+
